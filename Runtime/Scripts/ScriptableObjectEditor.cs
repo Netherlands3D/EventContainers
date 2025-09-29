@@ -1,11 +1,6 @@
 #if UNITY_EDITOR
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 using UnityEditor;
-using System;
-using Netherlands3D.Events;
-using UnityEngine.Events;
+using UnityEngine;
 
 public class ScriptableObjectEditor : Editor
 {

@@ -1,7 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using Netherlands3D.Events;
 
 namespace Netherlands3D.Events
 {
